@@ -29,6 +29,8 @@ Develop an AI-powered legal research assistant to help law firms and legal profe
 - Implement monitoring systems to track usage, performance, and accuracy of the AI's responses.
 - Set up logging and feedback mechanisms to continuously improve the system.
 
+![AI-Powered Legal Research Assistant Workflow](images/workflow.png)
+
 ## Implementation Steps
 
 1. **Data Collection and Preparation**
